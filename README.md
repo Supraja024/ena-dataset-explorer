@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/ena-dataset-explorer.git
+git clone https://github.com/Supraja024/ena-dataset-explorer.git
 cd ena-dataset-explorer
 ```
 
@@ -216,5 +216,7 @@ Contributions, feature requests, and bug reports are welcome. Please open an iss
 
 PhD Scholar
 Institute of Bioinformatics (IOB), Bangalore, India
+
+GitHub: https://github.com/Supraja024
 
 If you find this project useful, consider giving the repository a ⭐ to support future development.
